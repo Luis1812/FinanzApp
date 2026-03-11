@@ -1,4 +1,4 @@
-<h1>💰 FinanzApp</h1>
+<h1 align="center">💰 FinanzApp</h1>
 <p>Aplicación Android para gestionar ingresos y gastos personales, diseñada para ayudar a los usuarios a tener un mejor control de sus finanzas mediante una interfaz moderna y una arquitectura robusta.</p>
 <p>Este proyecto fue desarrollado utilizando tecnologías modernas de Android y siguiendo buenas prácticas de arquitectura, con el objetivo de construir una aplicación escalable, mantenible y fácil de extender.</p>
 
@@ -157,11 +157,11 @@ git clone https://github.com/Luis1812/FinanzApp.git
 </p>
 
 <p align="center">
-  <a href="https://github.com/Luis1812" target="_blank">
+  <a href="https://github.com/Luis1812">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/luis-alberto-castillo-cuyutupa-1a4116183" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-alberto-castillo-cuyutupa-1a4116183">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
